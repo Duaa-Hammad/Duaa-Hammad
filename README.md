@@ -20,8 +20,9 @@ I’m an IT student passionate about web development, clean UI design, and build
 
 ---
 
-- 🔭 I’m currently working on:  
-  A [Bakery Shop](https://github.com/Duaa-Hammad/BakeryShop) website using **Flask**, **Python**, and **SQLite** – includes user authentication, a shopping cart, and product management.
+- 🔭 I’m currently working on:
+  - [Student Planner](https://github.com/Duaa-Hammad/StudentPlanner): a smart planner to organize exam schedules and track academic performance.
+  - A [Bakery Shop](https://github.com/Duaa-Hammad/BakeryShop) website using **Flask**, **Python**, and **SQLite** – includes user authentication, a shopping cart, and product management
 
 - 🌱 I’m currently learning:  
   **Entity Framework Core**, **Authentication with ASP.NET Core**, and diving deeper into **database design**.
@@ -33,7 +34,7 @@ I’m an IT student passionate about web development, clean UI design, and build
   Structuring large ASP.NET Core MVC projects efficiently.
 
 - 📫 How to reach me:  
-  [Telegram](https://t.me/duaahammad1)
+  [gmail](doaahammad211@gmail.com)
 
 - 😄 Pronouns: She/her  
 - ⚡ Fun fact: I love simplicity in design – if it looks clean and works smoothly, I’m happy 💫
