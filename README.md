@@ -33,11 +33,7 @@ I’m an IT student passionate about web development, clean UI design, and build
 - 🤔 I’m looking for help with:  
   Structuring large ASP.NET Core MVC projects efficiently.
 
-- 📫 How to reach me:  
-  [gmail](doaahammad211@gmail.com)
-
-- 😄 Pronouns: She/her  
-- ⚡ Fun fact: I love simplicity in design – if it looks clean and works smoothly, I’m happy 💫
+- 📫 You can reach me on [Gmail](doaahammad211@gmail.com)
 
 ---
 
