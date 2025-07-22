@@ -33,7 +33,7 @@ I’m an IT student passionate about web development, clean UI design, and build
 - 🤔 I’m looking for help with:  
   Structuring large ASP.NET Core MVC projects efficiently.
 
-- 📫 You can reach me on [Gmail](doaahammad211@gmail.com)
+- 📫 You can reach me on [Telegram](https://t.me/duaahammad1)
 
 ---
 
