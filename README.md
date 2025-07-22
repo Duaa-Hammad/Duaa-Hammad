@@ -33,7 +33,7 @@ I’m an IT student passionate about web development, clean UI design, and build
   Structuring large ASP.NET Core MVC projects efficiently.
 
 - 📫 How to reach me:  
-  `https://t.me/duaahammad1` *(replace with your real email)*
+  `https://t.me/duaahammad1`
 
 - 😄 Pronouns: She/her  
 - ⚡ Fun fact: I love simplicity in design – if it looks clean and works smoothly, I’m happy 💫
