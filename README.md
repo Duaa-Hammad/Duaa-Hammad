@@ -12,14 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋 I'm Duaa Hammad
-
-I’m an IT student passionate about web development, clean UI design, and building useful projects with real-world impact.
-
 ----
 
 - 🚀 Projects I’ve worked on:
-  - [Student Planner](https://github.com/Duaa-Hammad/StudentPlanner): a smart planner to organize exam schedules and track academic performance.
+  - [Student Planner](https://github.com/Duaa-Hammad/StudentPlanner): a smart planner to send reminders of your exams or assignments on your email.
   - [Bakery Shop](https://github.com/Duaa-Hammad/BakeryShop): a website using **Flask**, **Python**, and **SQLite** – includes user authentication, a shopping cart, and product management
 
 - 🌱 I’m currently learning:  
