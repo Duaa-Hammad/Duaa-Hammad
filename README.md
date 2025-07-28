@@ -21,12 +21,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning:  
   **Entity Framework Core**, **Authentication with ASP.NET Core**, and diving deeper into **database design**.
 
-- 👯 I’m looking to collaborate on:  
-  Small to mid-size web apps – preferably educational, organizational, or social impact tools.
-
-- 🤔 I’m looking for help with:  
-  Structuring large ASP.NET Core MVC projects efficiently.
-
 - 📫 You can reach me on [telegram](https://t.me/duaahammad1)
 
 ---
@@ -38,5 +32,5 @@ Here are some ideas to get you started:
   
 ---
 
-Thanks for stopping by 🌸
+Thanks for stopping by!
 
