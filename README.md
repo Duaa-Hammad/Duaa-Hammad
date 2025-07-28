@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 ----
 
 - 🚀 Projects I’ve worked on:
-  - [Student Planner](https://github.com/Duaa-Hammad/StudentPlanner): a smart planner to send reminders of your exams or assignments on your email.
-  - [Bakery Shop](https://github.com/Duaa-Hammad/BakeryShop): a website using **Flask**, **Python**, and **SQLite** – includes user authentication, a shopping cart, and product management
+  - [Student Planner](https://github.com/Duaa-Hammad/Student-Planner): a smart planner to send reminders of your exams or assignments on your email.
+  - [Bakery Shop](https://github.com/Duaa-Hammad/Bakery-Shop): a website using **Flask**, **Python**, and **SQLite** – includes user authentication, a shopping cart, and product management
 
 - 🌱 I’m currently learning:  
   **Entity Framework Core**, **Authentication with ASP.NET Core**, and diving deeper into **database design**.
