@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 - 📫 You can reach me on [telegram](https://t.me/duaahammad1)
 
 ---
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Duaa-Hammad=Duaa-Hammad&layout=compact&langs_count=6&theme=default)
+
+---
 
 ## 🛠️ Tech Stack
 - Languages: C#, Python, HTML, CSS, JS
