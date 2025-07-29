@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duaa-Hammad&layout=compact&langs_count=6&theme=default)
 
 
-### 📫 Contact Me on <a href="mailto:doaahammad211@gmail.com">My Email</a>
+### 📫 Contact Me on <a href="mailto:doaahammad211@gmail.com">Email</a>
 
 
 Thanks for stopping by! 😊
