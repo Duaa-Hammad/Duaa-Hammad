@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔹 [**Bakery Shop**](https://github.com/Duaa-Hammad/Bakery-Shop)  
   A simple e-commerce website using **Flask**, **Python**, and **SQLite**.  
-  🔐 Includes user authentication, shopping cart, and product management features.
+  🔐 Includes user authentication, user management, and product management features.
 
 ---
 
