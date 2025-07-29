@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
 
 ## 🚀 Projects I’ve Worked On
 
@@ -24,11 +23,9 @@ Here are some ideas to get you started:
   A simple e-commerce website using **Flask**, **Python**, and **SQLite**.  
   🔐 Includes user authentication, user management, and product management features.
 
----
 
 ## 🌱 Currently Learning
 **ASP.NET Core MVC Framework**  
----
 
 ## 🛠️ Tech Stack
 
@@ -36,18 +33,15 @@ Here are some ideas to get you started:
 - **Frameworks**: ASP.NET Core MVC, Flask  
 - **Databases**: SQL Server, SQLite  
 
----
 
 ## 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duaa-Hammad&layout=compact&langs_count=6&theme=default)
 
----
 
 ## 📫 Contact Me
 
-- Telegram: [@duaahammad1](https://t.me/duaahammad1)
+- Email: <a href="mailtodoaahammad211@gmail.com">yourname@example.com</a>
 
----
 
 Thanks for stopping by! 😊
