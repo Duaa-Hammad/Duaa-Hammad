@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ---
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Duaa-Hammad=Duaa-Hammad&layout=compact&langs_count=6&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duaa-Hammad&layout=compact&langs_count=6&theme=default)
 
 ---
 
