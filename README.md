@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## 📫 Contact Me
 
-- Email: <a href="mailto:doaahammad211@gmail.com">duaa@gmail.com</a>
+- Email: <a href="mailto:doaahammad211@gmail.com">My Email</a>
 
 
 Thanks for stopping by! 😊
