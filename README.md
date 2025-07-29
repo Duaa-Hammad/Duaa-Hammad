@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duaa-Hammad&layout=compact&langs_count=6&theme=default)
 
 
-### 📫 Contact me on <a href="mailto:doaahammad211@gmail.com">Email</a>
+### 📫 Contact me on <a href="mailto:doaahammad211@gmail.com">email</a>
