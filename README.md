@@ -12,29 +12,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-----
+---
 
-- 🚀 Projects I’ve worked on:
-  - [Student Planner](https://github.com/Duaa-Hammad/Student-Planner): a smart planner to send reminders of your exams or assignments on your email.
-  - [Bakery Shop](https://github.com/Duaa-Hammad/Bakery-Shop): a website using **Flask**, **Python**, and **SQLite** – includes user authentication, a shopping cart, and product management
+## 🚀 Projects I’ve Worked On
 
-- 🌱 I’m currently learning:  
-  **ASP.Net Core MVC Framework**
+- 🔹 [**Student Planner**](https://github.com/Duaa-Hammad/Student-Planner)  
+  A personal scheduling web app built with **ASP.NET Core MVC**, **C#**, and **SQL Server**.  
+  📩 Sends email reminders for upcoming exams and assignments.
 
-- 📫 You can reach me on (https://t.me/duaahammad1)
+- 🔹 [**Bakery Shop**](https://github.com/Duaa-Hammad/Bakery-Shop)  
+  A simple e-commerce website using **Flask**, **Python**, and **SQLite**.  
+  🔐 Includes user authentication, shopping cart, and product management features.
 
 ---
-### 📊 Most Used Languages
+
+## 🌱 Currently Learning
+**ASP.NET Core MVC Framework**  
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: C#, Python, HTML, CSS, JavaScript  
+- **Frameworks**: ASP.NET Core MVC, Flask  
+- **Databases**: SQL Server, SQLite  
+
+---
+
+## 📊 Most Used Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duaa-Hammad&layout=compact&langs_count=6&theme=default)
 
 ---
 
-## 🛠️ Tech Stack
-- Languages: C#, Python, HTML, CSS, JS
-- Frameworks: ASP.NET Core MVC, Flask
-- Databases: SQL Server, SQLite
-  
+## 📫 Contact Me
+
+- Telegram: [@duaahammad1](https://t.me/duaahammad1)
+
 ---
 
-Thanks for stopping by!
-
+Thanks for stopping by! 😊
