@@ -19,9 +19,9 @@ Here are some ideas to get you started:
   - [Bakery Shop](https://github.com/Duaa-Hammad/Bakery-Shop): a website using **Flask**, **Python**, and **SQLite** – includes user authentication, a shopping cart, and product management
 
 - 🌱 I’m currently learning:  
-  **Entity Framework Core**, **Authentication with ASP.NET Core**, and diving deeper into **database design**.
+  **ASP.Net Core MVC Framework**
 
-- 📫 You can reach me on [telegram](https://t.me/duaahammad1)
+- 📫 You can reach me on (https://t.me/duaahammad1)
 
 ---
 ### 📊 Most Used Languages
